@@ -877,5 +877,3 @@ Här är några bra utgångspunkter för att fördjupa sig mer i säkerhet:
 Detta dokument är tillgängligt under [Creative Commons Attribution-ShareAlike](https://creativecommons.org/licenses/by-sa/4.0/), då mycket material kommer från [OWASP](https://www.owasp.org) kräver att materialet släpps under samma licens.
 
 Denna guide har skapats av [David Granqvist](https://github.com/hacker112) och [Niklas Holm](https://github.com/niklasholm) på [Attentec](https://www.attentec.se).
-
-Dokumentet uppdaterades senast: 2019-12-06
